@@ -13,8 +13,11 @@ borda e bebida — até a confirmação do pedido em uma tela de resumo.
 ---
 
 ## 📱 Demonstração
-
+<div align="center">
+  
 ![Demonstração do app PedePizza](PedePizza1.0.gif)
+
+</div>
 
 ---
 
