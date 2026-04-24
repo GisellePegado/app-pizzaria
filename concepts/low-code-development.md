@@ -37,6 +37,13 @@ O resultado final é compilado pela plataforma e exportado diretamente como um A
 ```
 *(Representação textual da lógica de blocos do Kodular)*
 
+<details>
+<summary>🧱 Blocos Kodular</summary>
+
+<img width="1277" height="867" alt="SotfwarePizzaria-kodular-blocks" src="https://github.com/user-attachments/assets/39007895-0e43-42d8-845a-6a019edef11b" />
+
+</details>
+
 ## 📚 Recursos para aprofundamento
 
 - [Kodular Documentation](https://docs.kodular.io) — documentação oficial da plataforma
