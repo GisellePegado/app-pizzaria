@@ -1,5 +1,9 @@
 # 🍕 PedePizza — App de Pedido de Pizzaria
 
+![Kodular](https://img.shields.io/badge/Kodular-Low--Code-6200EE?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-App-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)
+
 Aplicativo Android para montagem e envio de pedidos de pizza,
 desenvolvido como projeto da disciplina **Fundamentos de Design de Sistemas**.
 
